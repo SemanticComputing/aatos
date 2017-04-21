@@ -100,4 +100,5 @@ ENV/
 # aatos
 *.csv
 *.html
+*.zip
 *.xml
