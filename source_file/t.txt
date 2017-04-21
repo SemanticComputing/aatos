@@ -1,0 +1,59 @@
+{
+  "head": {
+    "vars": [ "sub" , "pred" , "obj" ]
+  } ,
+  "results": {
+    "bindings": [
+      {
+        "sub": { "type": "uri" , "value": "http://data.finlex.fi/eli/sd/1889/39/luku/47/pykala/6a" } ,
+        "pred": { "type": "uri" , "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" } ,
+        "obj": { "type": "uri" , "value": "http://data.finlex.fi/schema/sfl/Section" }
+      } ,
+      {
+        "sub": { "type": "uri" , "value": "http://data.finlex.fi/eli/sd/1889/39/luku/47/pykala/6a" } ,
+        "pred": { "type": "uri" , "value": "http://data.finlex.fi/schema/sfl/hasVersion" } ,
+        "obj": { "type": "uri" , "value": "http://data.finlex.fi/eli/sd/1889/39/luku/47/pykala/6a/ajantasa/20040501" }
+      } ,
+      {
+        "sub": { "type": "uri" , "value": "http://data.finlex.fi/eli/sd/1889/39/luku/17/pykala/8" } ,
+        "pred": { "type": "uri" , "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" } ,
+        "obj": { "type": "uri" , "value": "http://data.finlex.fi/schema/sfl/Section" }
+      } ,
+      {
+        "sub": { "type": "uri" , "value": "http://data.finlex.fi/eli/sd/1889/39/luku/17/pykala/8" } ,
+        "pred": { "type": "uri" , "value": "http://data.finlex.fi/schema/sfl/hasVersion" } ,
+        "obj": { "type": "uri" , "value": "http://data.finlex.fi/eli/sd/1889/39/luku/17/pykala/8/ajantasa/20140401" }
+      } ,
+      {
+        "sub": { "type": "uri" , "value": "http://data.finlex.fi/eli/sd/1889/39/luku/17/pykala/8" } ,
+        "pred": { "type": "uri" , "value": "http://data.finlex.fi/schema/sfl/hasVersion" } ,
+        "obj": { "type": "uri" , "value": "http://data.finlex.fi/eli/sd/1889/39/luku/17/pykala/8/ajantasa/19990101" }
+      } ,
+      {
+        "sub": { "type": "uri" , "value": "http://data.finlex.fi/eli/sd/1889/39/luku/38" } ,
+        "pred": { "type": "uri" , "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" } ,
+        "obj": { "type": "uri" , "value": "http://data.finlex.fi/schema/sfl/Chapter" }
+      } ,
+      {
+        "sub": { "type": "uri" , "value": "http://data.finlex.fi/eli/sd/1889/39/luku/38" } ,
+        "pred": { "type": "uri" , "value": "http://data.finlex.fi/schema/sfl/hasVersion" } ,
+        "obj": { "type": "uri" , "value": "http://data.finlex.fi/eli/sd/1889/39/luku/38/ajantasa/20110517" }
+      } ,
+      {
+        "sub": { "type": "uri" , "value": "http://data.finlex.fi/eli/sd/1889/39/luku/38" } ,
+        "pred": { "type": "uri" , "value": "http://data.finlex.fi/schema/sfl/hasVersion" } ,
+        "obj": { "type": "uri" , "value": "http://data.finlex.fi/eli/sd/1889/39/luku/38/ajantasa/20151001" }
+      } ,
+      {
+        "sub": { "type": "uri" , "value": "http://data.finlex.fi/eli/sd/1889/39/luku/47/pykala/2" } ,
+        "pred": { "type": "uri" , "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" } ,
+        "obj": { "type": "uri" , "value": "http://data.finlex.fi/schema/sfl/Section" }
+      } ,
+      {
+        "sub": { "type": "uri" , "value": "http://data.finlex.fi/eli/sd/1889/39/luku/47/pykala/2" } ,
+        "pred": { "type": "uri" , "value": "http://data.finlex.fi/schema/sfl/hasVersion" } ,
+        "obj": { "type": "uri" , "value": "http://data.finlex.fi/eli/sd/1889/39/luku/47/pykala/2/ajantasa/19950901" }
+      }
+    ]
+  }
+}

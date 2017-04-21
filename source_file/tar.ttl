@@ -1,0 +1,2525 @@
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/46/pykala/1>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39A/luku/2/pykala/11a>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/9/pykala/10>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/14/pykala/2>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/25/pykala/3>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/30/pykala/11>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/5/pykala/7>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/40/pykala/11>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39A/luku/1/pykala/6>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/8/pykala/13>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/29/pykala/10>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/47/pykala/6>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/20/pykala/12>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/36/pykala/5>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/44/pykala/5a>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39A/luku/3/pykala/2c>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/51/pykala/3>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/45/pykala/24>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39B/pykala/4>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/40/pykala/2>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/38/pykala/13>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/37/pykala/9>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/15/pykala/7>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/8/pykala/4>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/30/pykala/5>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39B/pykala/48>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39A/luku/4/pykala/3>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/28/pykala/14>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/39/pykala/2>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/41/pykala/7>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/29/pykala/5>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/38/pykala/8a>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/9/pykala/9>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39A/luku/3/pykala/14>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/20/pykala/9>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/34a/pykala/4c>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/48a/pykala/1a>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/33/pykala/2>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/22/pykala/1>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/24/pykala/10>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/17/pykala/18>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/34/pykala/10>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/2b/pykala/3>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/44/pykala/10>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39A/luku/2/pykala/17>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/12/pykala/4>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/44/pykala/4>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/50a/pykala/4>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/17/pykala/16a>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/45/pykala/8>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/34/pykala/7>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/23/pykala/6>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/2/pykala/17>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/5/pykala/2>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/2c/pykala/8>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39A/luku/1/pykala/1>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/47/pykala/1>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39A/luku/2/pykala/5>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/37/pykala/4>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/2c/pykala/14>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39A/luku/2/pykala/2a>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/15/pykala/2>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/6/pykala/7>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/30/pykala/10a>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/48a/pykala/7>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39B/pykala/43>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/16/pykala/6>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/48/pykala/6>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39B/pykala/11>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/6/pykala/15>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/41/pykala/2>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/37/pykala/12>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/38/pykala/9>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39A/luku/2/pykala/15a>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/9/pykala/4>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/42/pykala/6>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/20/pykala/4>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39A/luku/5/pykala/3>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/46/pykala/15>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/17/pykala/13>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/16/pykala/14b>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/21/pykala/8>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/10/pykala/7>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39A/luku/2/pykala/12>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/34a/pykala/4>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/3/pykala/4>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/34/pykala/9a>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/45/pykala/18>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/16/pykala/16>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/45/pykala/3>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/34/pykala/2>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/23/pykala/1>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/2/pykala/12>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/11/pykala/7a>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39A/luku/2/pykala/3d>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/2c/pykala/3>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/40/pykala/4a>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/17/pykala/8a>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/24/pykala/5>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/13/pykala/4>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/1/pykala/15>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/50/pykala/4a>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/32/pykala/12>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/21/pykala/15>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/46/pykala/8>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/35/pykala/7>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/50/pykala/5>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/6/pykala/2>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/48a/pykala/2>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/16/pykala/1>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/7/pykala/6>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/34a/pykala/5a>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/48/pykala/1>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39A/luku/3/pykala/5>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/45/pykala/26a>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/6/pykala/10>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/49/pykala/5>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/38/pykala/4>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/40/pykala/9>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/42/pykala/1>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/28/pykala/7>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/17/pykala/6>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/46/pykala/10>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/21/pykala/3>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/10/pykala/2>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/1/pykala/7>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/2c/pykala/10a>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/2a/pykala/5>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/45/pykala/13>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/16/pykala/11>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/39/pykala/9>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39A/luku/2/pykala/9c>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39A/luku/2/pykala/1e>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/43/pykala/6>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/32/pykala/5>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/11/pykala/7>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/1/pykala/10>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/4/pykala/4>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39A/luku/7/pykala/7>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/44/pykala/17>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/48a/pykala/3b>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/21/pykala/10>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/46/pykala/3>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/35/pykala/2>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/32/pykala/6a>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/14/pykala/4>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/25/pykala/5>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/30/pykala/13>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/11/pykala/11>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/40/pykala/13>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/7/pykala/1>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/17/pykala/18b>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39A/luku/1/pykala/8>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/8/pykala/15>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/17/pykala/21>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/29/pykala/12>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39A/luku/2/pykala/20>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/47/pykala/8>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/36/pykala/7>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39A/luku/3/pykala/2e>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/2/pykala/14a>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/45/pykala/26>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39B/pykala/6>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/51/pykala/5>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/40/pykala/4>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/15/pykala/9>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/2a/pykala/11>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/28/pykala/2>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/17/pykala/1>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/8/pykala/6>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/30/pykala/7>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/30/pykala/8a>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/1/pykala/2>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39A/luku/4/pykala/5>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/17/pykala/1a>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/39/pykala/4>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/20/pykala/8b>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/43/pykala/1>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/29/pykala/7>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39B/pykala/32>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/33/pykala/4>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/22/pykala/3>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/11/pykala/2>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/2/pykala/7>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/24/pykala/12>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39A/luku/7/pykala/2>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/34/pykala/12>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/48/pykala/5a>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/44/pykala/12>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/2b/pykala/5>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39A/luku/2/pykala/19>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/12/pykala/6>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/44/pykala/6>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/25/pykala/3a>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/50a/pykala/6>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/35/pykala/3a>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/17/pykala/16c>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/34/pykala/9>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/23/pykala/8>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/5/pykala/4>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/17/pykala/13a>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39A/luku/1/pykala/3>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/8/pykala/10>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/47/pykala/3>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/36/pykala/2>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39A/luku/2/pykala/7>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/45/pykala/21>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39B/pykala/1>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/38/pykala/10>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/37/pykala/6>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/15/pykala/4>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/48/pykala/10>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/6/pykala/9>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/8/pykala/1>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/30/pykala/2>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/11/pykala/10a>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/16/pykala/8>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39B/pykala/45>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/28/pykala/11>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/48/pykala/8>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/17/pykala/23b>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39B/pykala/13>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/16/pykala/4a>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/41/pykala/4>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/37/pykala/14>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/18/pykala/1>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/29/pykala/2>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/9/pykala/6>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/6/pykala/10a>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39A/luku/2/pykala/15c>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/20/pykala/6>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39A/luku/3/pykala/11>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/2/pykala/2>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39A/luku/5/pykala/5>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/17/pykala/15>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/10/pykala/9>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39A/luku/2/pykala/14>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/12/pykala/1>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/34a/pykala/6>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/3/pykala/6>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/16/pykala/18>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/44/pykala/1>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/50a/pykala/1>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/45/pykala/5>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/34/pykala/4>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/23/pykala/3>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/2/pykala/14>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/23/pykala/11>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/2c/pykala/5>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/24/pykala/7>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/30/pykala/1a>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/32/pykala/14>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/29/pykala/4b>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39A/luku/2/pykala/2>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/21/pykala/17>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/35/pykala/9>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39B/pykala/26>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/2c/pykala/11>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/37/pykala/1>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/6/pykala/4>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/50/pykala/7>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/48a/pykala/4>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/38/pykala/9a>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/16/pykala/3>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/7/pykala/8>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/48/pykala/3>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39A/luku/3/pykala/7>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/6/pykala/12>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/28/pykala/9b>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/25/pykala/7a>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39A/luku/2/pykala/10b>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/49/pykala/7>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/38/pykala/6>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/9/pykala/1>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/42/pykala/3>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/31/pykala/2>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/20/pykala/1>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/28/pykala/9>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/17/pykala/8>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/46/pykala/12>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/17/pykala/10>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/21/pykala/5>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/10/pykala/4>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/1/pykala/9>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/3/pykala/1>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/34a/pykala/1>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/31/pykala/2a>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/16/pykala/13>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/45/pykala/15>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/2a/pykala/7>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39A/luku/2/pykala/9e>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/43/pykala/8>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/32/pykala/7>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39A/luku/2/pykala/3a>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/11/pykala/9>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/24/pykala/2>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/1/pykala/12>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/13/pykala/1>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/4/pykala/6>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/20/pykala/7a>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/46/pykala/5>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/38/pykala/7b>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/21/pykala/12>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/35/pykala/4>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39B/pykala/21>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/50/pykala/2>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/25/pykala/7>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/30/pykala/15>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/14/pykala/6>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/11/pykala/13>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/7/pykala/3>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39A/luku/1/pykala/8a>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/8/pykala/17>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/17/pykala/23>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39A/luku/3/pykala/2>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/36/pykala/9>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/49/pykala/2>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/38/pykala/1>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/45/pykala/28>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39B/pykala/8>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/51/pykala/7>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/40/pykala/6>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39A/luku/5/pykala/11>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/28/pykala/12a>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/28/pykala/4>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/17/pykala/3>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/8/pykala/8>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/30/pykala/9>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/1/pykala/4>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/15/pykala/12a>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39A/luku/4/pykala/7>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/45/pykala/10>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/2a/pykala/2>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/39/pykala/6>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/46/pykala/6a>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39A/luku/2/pykala/1b>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/32/pykala/2>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/15/pykala/11>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/29/pykala/9>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/33/pykala/6>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/22/pykala/5>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/11/pykala/4>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/4/pykala/1>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/48a/pykala/6a>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39A/luku/7/pykala/4>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/34/pykala/14>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/44/pykala/14>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/12/pykala/8>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/44/pykala/8>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/25/pykala/3c>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/35/pykala/3c>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/14/pykala/1>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/25/pykala/2>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/30/pykala/10>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/5/pykala/6>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/40/pykala/10>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/21/pykala/6a>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39A/luku/1/pykala/5>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/8/pykala/12>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/10/pykala/11>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/47/pykala/5>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/20/pykala/11>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/36/pykala/4>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39A/luku/3/pykala/2b>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39A/luku/2/pykala/9>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/45/pykala/23>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/51/pykala/2>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39B/pykala/3>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/40/pykala/1>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/38/pykala/12>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/37/pykala/8>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/15/pykala/6>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/17/pykala/7b>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/8/pykala/3>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/30/pykala/4>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39B/pykala/47>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39A/luku/4/pykala/2>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/28/pykala/13>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/39/pykala/1>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39B/pykala/15>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/41/pykala/6>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/29/pykala/4>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/18/pykala/3>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/9/pykala/8>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/20/pykala/8>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39A/luku/3/pykala/13>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/33/pykala/1>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/34a/pykala/4b>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/2/pykala/4>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39A/luku/5/pykala/7>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/17/pykala/17>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39A/luku/2/pykala/16>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/12/pykala/3>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/34a/pykala/8>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/44/pykala/3>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/50a/pykala/3>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/45/pykala/7>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/34/pykala/6>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/23/pykala/5>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/2/pykala/16>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/5/pykala/1>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/2c/pykala/7>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/24/pykala/9>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/30/pykala/9a>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39A/luku/2/pykala/4>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/37/pykala/3>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/2c/pykala/13>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/15/pykala/1>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/6/pykala/6>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/48a/pykala/6>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39B/pykala/42>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/16/pykala/5>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/48/pykala/5>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39A/luku/3/pykala/9>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/6/pykala/14>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/41/pykala/1>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/37/pykala/11>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/38/pykala/8>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/42/pykala/5>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/9/pykala/3>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/25/pykala/4a>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/31/pykala/4>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/20/pykala/3>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39A/luku/5/pykala/2>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/46/pykala/14>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/17/pykala/12>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/16/pykala/14a>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/21/pykala/7>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/10/pykala/6>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39A/luku/2/pykala/11>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/17/pykala/14a>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/34a/pykala/3>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/3/pykala/3>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/2a/pykala/9>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/45/pykala/17>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/16/pykala/15>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/32/pykala/9>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/45/pykala/2>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/34/pykala/1>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/23/pykala/11a>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/2/pykala/11>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/2c/pykala/2>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39A/luku/2/pykala/3c>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/24/pykala/4>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/13/pykala/3>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/1/pykala/14>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/12/pykala/11>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/32/pykala/11>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/21/pykala/14>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/46/pykala/7>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/35/pykala/6>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/50/pykala/4>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/6/pykala/1>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/48a/pykala/1>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/25/pykala/9>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/6/pykala/11a>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/11/pykala/15>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/7/pykala/5>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/17/pykala/25>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39A/luku/3/pykala/4>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/49/pykala/4>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/38/pykala/3>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/40/pykala/8>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/28/pykala/6>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/17/pykala/5>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/21/pykala/2>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/10/pykala/1>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/1/pykala/6>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39A/luku/4/pykala/9>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/2a/pykala/4>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/45/pykala/12>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/16/pykala/10>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/39/pykala/8>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39A/luku/2/pykala/9b>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39A/luku/2/pykala/1d>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/17/pykala/6a>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/43/pykala/5>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/32/pykala/4>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/50/pykala/2a>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/15/pykala/13>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/11/pykala/6>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/4/pykala/3>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39A/luku/7/pykala/6>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/44/pykala/16>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/48a/pykala/3a>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/46/pykala/2>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/35/pykala/1>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39A/luku/2/pykala/11b>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/14/pykala/3>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/25/pykala/4>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/30/pykala/12>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/5/pykala/8>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/40/pykala/12>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/11/pykala/10>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/17/pykala/18a>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39A/luku/1/pykala/7>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/8/pykala/14>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/17/pykala/20>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/29/pykala/11>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/47/pykala/7>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/20/pykala/13>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/36/pykala/6>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39A/luku/3/pykala/2d>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/45/pykala/25>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39B/pykala/5>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/51/pykala/4>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/40/pykala/3>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/15/pykala/8>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/28/pykala/1>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/2a/pykala/10>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/8/pykala/5>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/30/pykala/6>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/44/pykala/12a>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/1/pykala/1>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39A/luku/4/pykala/4>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/28/pykala/15>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/39/pykala/3>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/20/pykala/8a>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/41/pykala/8>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/16/pykala/9a>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/29/pykala/6>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/38/pykala/8b>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39A/luku/3/pykala/15>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/33/pykala/3>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/22/pykala/2>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/11/pykala/1>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/2/pykala/6>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39A/luku/5/pykala/9>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/24/pykala/11>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39A/luku/7/pykala/1>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/17/pykala/19>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/34/pykala/11>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/44/pykala/11>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/2b/pykala/4>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39A/luku/2/pykala/18>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/12/pykala/5>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/44/pykala/5>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/50a/pykala/5>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/17/pykala/16b>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/45/pykala/9>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/34/pykala/8>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/23/pykala/7>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/2/pykala/18>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/5/pykala/3>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/2c/pykala/9>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39A/luku/1/pykala/2>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/11/pykala/9a>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/47/pykala/2>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/36/pykala/1>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39A/luku/2/pykala/6>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/45/pykala/20>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/37/pykala/5>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/15/pykala/3>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/6/pykala/8>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/30/pykala/1>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/8/pykala/3a>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/16/pykala/7>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39B/pykala/44>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/28/pykala/10>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/48/pykala/7>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/17/pykala/23a>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39B/pykala/12>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/6/pykala/16>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/41/pykala/3>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/37/pykala/13>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/29/pykala/1>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39A/luku/2/pykala/15b>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/9/pykala/5>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/42/pykala/7>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/20/pykala/5>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39A/luku/3/pykala/10>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/2/pykala/1>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39A/luku/5/pykala/4>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/46/pykala/16>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/17/pykala/14>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/21/pykala/9>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/10/pykala/8>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39A/luku/2/pykala/13>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/34a/pykala/5>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/3/pykala/5>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/16/pykala/17>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/45/pykala/19>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/34/pykala/9b>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/41/pykala/7a>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/45/pykala/4>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/34/pykala/3>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/23/pykala/2>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/2/pykala/13>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/23/pykala/10>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/2c/pykala/4>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/24/pykala/6>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/32/pykala/13>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/29/pykala/4a>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39A/luku/2/pykala/1>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39B/pykala/25>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/21/pykala/16>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/46/pykala/9>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/35/pykala/8>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/2c/pykala/10>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/6/pykala/3>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/50/pykala/6>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/48a/pykala/3>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/16/pykala/2>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/40/pykala/13a>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/7/pykala/7>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/48/pykala/2>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39A/luku/3/pykala/6>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/45/pykala/26b>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/6/pykala/11>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/28/pykala/9a>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39A/luku/2/pykala/10a>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/49/pykala/6>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/38/pykala/5>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/47/pykala/6a>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/42/pykala/2>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/31/pykala/1>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/28/pykala/8>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/17/pykala/7>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/46/pykala/11>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/21/pykala/4>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/10/pykala/3>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/1/pykala/8>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39A/luku/3/pykala/9a>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/44/pykala/4a>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/2a/pykala/6>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/45/pykala/14>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/16/pykala/12>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39A/luku/2/pykala/9d>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/43/pykala/7>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/32/pykala/6>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/11/pykala/8>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/24/pykala/1>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/1/pykala/11>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/4/pykala/5>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39A/luku/7/pykala/8>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/46/pykala/4>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/38/pykala/7a>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/21/pykala/11>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/35/pykala/3>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39B/pykala/20>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/50/pykala/1>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/25/pykala/6>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/30/pykala/14>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/14/pykala/5>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/25/pykala/5a>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/7/pykala/2>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/40/pykala/14>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/11/pykala/12>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/8/pykala/16>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/17/pykala/22>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39A/luku/3/pykala/1>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39A/luku/2/pykala/21>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/17/pykala/15a>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/47/pykala/9>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/36/pykala/8>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/49/pykala/1>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/45/pykala/27>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39B/pykala/7>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/51/pykala/6>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/40/pykala/5>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39A/luku/5/pykala/10>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/28/pykala/3>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/17/pykala/2>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/8/pykala/7>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/30/pykala/8>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/1/pykala/3>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39A/luku/4/pykala/6>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/2a/pykala/1>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/39/pykala/5>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/20/pykala/8c>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39A/luku/2/pykala/1a>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/32/pykala/1>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/15/pykala/10>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/25/pykala/10>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/20/pykala/5a>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/29/pykala/8>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/33/pykala/5>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/22/pykala/4>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/11/pykala/3>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/2/pykala/8>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/24/pykala/13>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39A/luku/7/pykala/3>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/34/pykala/13>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/44/pykala/13>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/12/pykala/7>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/8/pykala/12a>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/44/pykala/7>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39A/luku/2/pykala/14a>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/25/pykala/3b>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/35/pykala/3b>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/17/pykala/16d>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/23/pykala/9>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/25/pykala/1>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/5/pykala/5>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/24/pykala/8a>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39A/luku/1/pykala/4>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/8/pykala/11>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/10/pykala/10>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/20/pykala/10>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/47/pykala/4>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/36/pykala/3>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39A/luku/3/pykala/2a>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39A/luku/2/pykala/8>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/16/pykala/20>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/45/pykala/22>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39B/pykala/2>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/51/pykala/1>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/38/pykala/11>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/37/pykala/7>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/30/pykala/3a>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/15/pykala/5>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/17/pykala/7a>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/8/pykala/2>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/30/pykala/3>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39B/pykala/46>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/16/pykala/9>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39A/luku/4/pykala/1>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/28/pykala/12>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/48/pykala/9>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39B/pykala/14>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/16/pykala/4b>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/41/pykala/5>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/48a/pykala/4a>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/29/pykala/3>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/18/pykala/2>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/9/pykala/7>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/20/pykala/7>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39A/luku/3/pykala/12>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/34a/pykala/4a>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/2/pykala/3>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/25/pykala/9a>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39A/luku/5/pykala/6>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/17/pykala/16>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/2b/pykala/1>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39A/luku/2/pykala/15>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/12/pykala/2>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/34a/pykala/7>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/3/pykala/7>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/16/pykala/19a>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/16/pykala/19>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/44/pykala/2>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/50a/pykala/2>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/45/pykala/6>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/34/pykala/5>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/23/pykala/4>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/2/pykala/15>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/23/pykala/12>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/2c/pykala/6>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/24/pykala/8>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/29/pykala/4c>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39A/luku/2/pykala/3>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/21/pykala/18>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/37/pykala/2>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/20/pykala/9a>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/2c/pykala/12>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/39/pykala/1a>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/6/pykala/5>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/50/pykala/8>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/48a/pykala/5>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/16/pykala/4>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/7/pykala/9>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/48/pykala/4>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39A/luku/3/pykala/8>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/6/pykala/13>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39A/luku/2/pykala/18a>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/28/pykala/9c>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39A/luku/2/pykala/10c>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/37/pykala/10>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/38/pykala/7>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/9/pykala/2>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/42/pykala/4>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/31/pykala/3>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/20/pykala/2>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/17/pykala/9>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/47/pykala/3a>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39A/luku/5/pykala/1>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/46/pykala/13>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/17/pykala/11>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/21/pykala/6>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/10/pykala/5>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39A/luku/2/pykala/10>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/34a/pykala/2>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/3/pykala/2>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/16/pykala/14>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/45/pykala/16>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/2a/pykala/8>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/24/pykala/1a>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/6/pykala/8a>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/32/pykala/8>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/45/pykala/1>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/30/pykala/7a>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/2/pykala/10>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/2c/pykala/1>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39A/luku/2/pykala/3b>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/1/pykala/13>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/24/pykala/3>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/13/pykala/2>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/4/pykala/7>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/12/pykala/10>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/32/pykala/10>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/35/pykala/5>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/21/pykala/13>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/46/pykala/6>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39B/pykala/22>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/50/pykala/3>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/25/pykala/8>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/14/pykala/7>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/11/pykala/14>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39B/pykala/41a>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/7/pykala/4>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/8/pykala/18>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/17/pykala/24>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39A/luku/3/pykala/3>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/49/pykala/3>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/38/pykala/2>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/45/pykala/29>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39B/pykala/9>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/51/pykala/8>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/40/pykala/7>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/28/pykala/5>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/17/pykala/4>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/8/pykala/9>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/21/pykala/1>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/1/pykala/5>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39A/luku/4/pykala/8>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/45/pykala/11>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/2a/pykala/3>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/39/pykala/7>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39A/luku/2/pykala/9a>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39A/luku/2/pykala/1c>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/43/pykala/4>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/32/pykala/3>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/15/pykala/12>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/33/pykala/7>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/22/pykala/6>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/11/pykala/5>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/4/pykala/2>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39A/luku/7/pykala/5>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/44/pykala/15>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/12/pykala/9>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
+
+<http://data.finlex.fi/eli/sd/1889/39/luku/44/pykala/9>
+        a       <http://data.finlex.fi/schema/sfl/Section> .
